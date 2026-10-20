@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.10.0 | 2026-10-20 | Themes: pick one under Settings › Theme (Midnight and Paper included), plus a new tall Watch face style. Optional artwork theme packs can be added per person. |
 | 2.9.0 | 2026-10-16 | Seven new watch-style looks: Flight, Gauge, Week bars, Countdown, Timeline, Sunset and Meter. |
 | 2.8.5 | 2026-10-16 | Previous / next day arrows (and arrow keys) on a day opened from This week, with Today to go back. Agenda style lists every work and break stretch and scrolls. |
 | 2.8.4 | 2026-10-13 | Percent keeps counting past the target (110%, 120%… for extra time). macOS and Linux versions added on 2026-10-16. |
