@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.15.0 | 2026-10-21 | Spider-Man's web is now a braided rope of silk fibres that frays into a fan where it sticks. New travel: **Tongue**, where a fly buzzes at the cursor and the chameleon's sticky tongue catches it and reels the bubble in (the new Golden Chameleon theme uses it; also in Make your own theme). |
 | 2.14.0 | 2026-10-21 | **Travel** for the Marvel themes: click the new button on the bubble, then any spot on the screen. Spider-Man web-swings there, Doctor Strange opens a sling-ring portal, Iron Man flies on repulsors (Update those themes in **Themes**). Make your own theme gets a Travel choice. |
 | 2.13.0 | 2026-10-21 | **Make your own theme**: in **Themes**, pick a picture from your computer, choose a watch face or round shape, drag to place the time, and save. It stays on your computer. Animated WebP pictures play (the Spider-Man themes now blink). |
 | 2.12.0 | 2026-10-21 | A dot on **Updates** (and on the bubble's gear) shows when a new version is out. Themes can have a tune: the Spider-Man themes play the Homecoming theme from the ▶ button next to the gear (Get the update for those themes in **Themes**). |
