@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.11.0 | 2026-10-21 | Theme library: open **Themes** in the dashboard to browse and search themes and **Get** the ones you want (only those are downloaded; gallery at abhijithanirudhan2907.github.io/keka-time-bubble-themes). Spider-Man Casio gets an LCD readout with in, break, done and week. |
 | 2.10.0 | 2026-10-20 | Themes: pick one under Settings › Theme (Midnight and Paper included), plus a new tall Watch face style. Optional artwork theme packs can be added per person. |
 | 2.9.0 | 2026-10-16 | Seven new watch-style looks: Flight, Gauge, Week bars, Countdown, Timeline, Sunset and Meter. |
 | 2.8.5 | 2026-10-16 | Previous / next day arrows (and arrow keys) on a day opened from This week, with Today to go back. Agenda style lists every work and break stretch and scrolls. |
