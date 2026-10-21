@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.12.0 | 2026-10-21 | A dot on **Updates** (and on the bubble's gear) shows when a new version is out. Themes can have a tune: the Spider-Man themes play the Homecoming theme from the ▶ button next to the gear (Get the update for those themes in **Themes**). |
 | 2.11.0 | 2026-10-21 | Theme library: open **Themes** in the dashboard to browse and search themes and **Get** the ones you want (only those are downloaded; gallery at abhijithanirudhan2907.github.io/keka-time-bubble-themes). Spider-Man Casio gets an LCD readout with in, break, done and week. |
 | 2.10.0 | 2026-10-20 | Themes: pick one under Settings › Theme (Midnight and Paper included), plus a new tall Watch face style. Optional artwork theme packs can be added per person. |
 | 2.9.0 | 2026-10-16 | Seven new watch-style looks: Flight, Gauge, Week bars, Countdown, Timeline, Sunset and Meter. |
