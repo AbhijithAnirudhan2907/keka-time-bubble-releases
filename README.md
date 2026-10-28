@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.24.1 | 2026-10-28 | Fix: on the Watch face with the LCD readout (custom themes, or a wide font from Settings > Text) the time spilled out, the date wrapped and the IN / BREAK / DONE / LEFT cells overlapped. The readout now shrinks as a whole to fit the theme's slot. |
 | 2.24.0 | 2026-10-28 | **16 new fonts** for the widget's times (Settings > Widget > Text): signature and brush scripts (Great Vibes, Alex Brush, Allura, Sacramento, Parisienne, Pinyon, Mr Dafoe, Kaushan, Yellowtail, Pacifico, Dancing, Satisfy, Caveat), Lobster, a Gothic blackletter and tall Bebas; built into the app, so they work on every PC. **Blur** slider for the frosted widget, and the widget now darkens itself over a bright (white) background so the times stay readable. |
 | 2.23.0 | 2026-10-28 | **Frosted widget** (Windows): with See-through black on, the desktop behind the widget is blurred, like frosted glass (Settings > Widget > Background & outline > Blur behind, on by default). The app copies the screen behind the widget a few times a second, so while it is on the widget does not appear in screenshots or screen sharing. |
 | 2.22.3 | 2026-10-28 | **See-through black** (Settings > Widget > Background & outline, on by default): the widget has no dark card behind it, and the black in the theme picture lets the desktop show through (animated pictures keep moving). Switch it off to get the solid card back. |
