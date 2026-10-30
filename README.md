@@ -112,6 +112,7 @@ the app rejects anything that isn't.
 
 | Version | Date | What changed |
 |---|---|---|
+| 2.28.1 | 2026-10-30 | Today: **Carry extra**. Time worked over the target earlier this week comes off today's target (e.g. 9h yesterday on an 8h 30m day means 30m less today). Tap **Carry** on the Today page to turn it on or off. |
 | 2.28.0 | 2026-10-29 | **Party pop celebration** when you reach the day's target: a party popper bursts into a blue badge, a check draws in and a **Completed** pill slides out, just above the widget, growing from small. Turn on **Show celebration** in Settings; **Party pop celebration** (on by default) picks it over the graffiti one. **Set today's target** is back on the Today page. (Includes 2.27.3–2.27.5: completion countdown, today's custom target, optional celebration.) |
 | 2.27.2 | 2026-10-29 | My Team: the people you add now get their real status today (leave, in / out / not in yet) from their Keka profile, even when they are not in your team or peers. Team and peers on leave are one **On Leave Today** list, which also shows the people you added who are on leave. |
 | 2.27.1 | 2026-10-29 | Fix: in 2.27.0 the widget could be invisible after starting (it was drawn outside its window). |
